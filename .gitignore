@@ -1,4 +1,18 @@
+# Random R stuff #
+######################
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj
+*.Rdata
+
+
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
